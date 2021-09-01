@@ -1,8 +1,8 @@
-## Olá!!!  Eu sou Bruno GankSir 
+### Olá! Eu sou o Bruno Teles, Vulgo: Sir Gank 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estutando Javascript
-
+- 📚 Estudando JAVASCRIPT, CSS e HTML
+- 🌱 Aprendendo: Inglês e Libras
+-  
   <a href="https://github.com/GankSir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GankSir&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GankSir&layout=compact&langs_count=7&theme=merko"/>
