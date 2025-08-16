@@ -1,7 +1,43 @@
 ### Olá! Eu sou o Bruno Teles, Vulgo: Sir Gank 👋
 
-- 📚 Estudando JAVASCRIPT, CSS e HTML
-- 🌱 Aprendendo: Inglês e Libras
+Bruno Teles
+🚀 Engenheiro de QA | Especialista em Automação de Testes 
+
+Profissional apaixonado por garantia de qualidade, automação de testes com experiência em fintechs, Supply Chain, E-commerce, produtos digitais e equipes ágeis.
+
+🔧 Tecnologias:
+
+Automação: Selenium, Cypress, Appium, Robot Framework, K6 
+
+Testes: Funcionais, Regressão, API (Postman), Performance (JMeter)
+
+IA em Testes: Automação inteligente, Geração de casos de teste com ChatGPT/Copilot, Análise de resultados com ML
+
+Linguagens:  Python, JavaScript
+
+DevOps/CI/CD: Jenkins, Git, Docker
+
+Metodologias Ágeis: Scrum, Kanban
+
+💼 Experiência:
+
+Ex-QA na Squadra Digital (Itaú) e Finpass
+
+Expertise em produtos financeiros, plataformas de crédito e transformação digital
+
+Foco em estratégia de testes, frameworks de automação e melhoria de confiabilidade de software
+
+🧠 Diferenciais:
+
+Aplicação de Inteligência Artificial em testes de software para:
+
+Otimização de suites de teste
+
+Detecção inteligente de anomalias
+
+Automação de testes baseada em comportamento
+
+🔍 Aberto para colaborações em projetos de automação, ferramentas de QA ou soluções tecnológicas inovadoras.
 -  
   <a href="https://github.com/GankSir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GankSir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
