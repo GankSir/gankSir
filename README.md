@@ -21,7 +21,7 @@ Metodologias Ágeis: Scrum, Kanban
 
 💼 Experiência:
 
-Expertise em produtos financeiros, plataformas de crédito e transformação digital, Track & trace
+Expertise em produtos financeiros, plataformas de crédito e transformação digital, Track & trace e meio de pagamento
 
 Foco em estratégia de testes, frameworks de automação e melhoria de confiabilidade de software
 
