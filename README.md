@@ -21,9 +21,7 @@ Metodologias Ágeis: Scrum, Kanban
 
 💼 Experiência:
 
-Ex-QA na Squadra Digital (Itaú) e Finpass
-
-Expertise em produtos financeiros, plataformas de crédito e transformação digital
+Expertise em produtos financeiros, plataformas de crédito e transformação digital, Track & trace
 
 Foco em estratégia de testes, frameworks de automação e melhoria de confiabilidade de software
 
