@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bruno Teles, Vulgo: Sir Gank 👋
+### Olá! Eu sou o Bruno Teles 👋
 
 Bruno Teles
 🚀 Engenheiro de QA | Especialista em Automação de Testes 
