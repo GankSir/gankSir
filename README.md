@@ -15,6 +15,8 @@ IA em Testes: Automação inteligente, Geração de casos de teste com ChatGPT/C
 
 Linguagens:  Python, JavaScript
 
+MongoDB, SQL Server, PostgreSQL, DataDog, Service Bus
+
 DevOps/CI/CD: Jenkins, Git, Docker
 
 Metodologias Ágeis: Scrum, Kanban
